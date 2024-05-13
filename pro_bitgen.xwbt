@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/new/pro.ncd
+OUTFILE=/home/ise/new/pro.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=/home/ise/new
+LICENSE=WebPack
+USER_INFO=212674236_0_0_457

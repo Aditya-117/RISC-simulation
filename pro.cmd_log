@@ -1,0 +1,409 @@
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 
+xst -intstyle ise -ifn "/home/ise/new/pro.xst" -ofn "/home/ise/new/pro.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Ucf.ucf -p xc6slx9-tqg144-3 pro.ngc pro.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pro_map.ncd pro.ngd pro.pcf 
+par -w -intstyle ise -ol high -mt off pro_map.ncd pro.ncd pro.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pro.twx pro.ncd -o pro.twr pro.pcf -ucf Ucf.ucf 
+bitgen -intstyle ise -f pro.ut pro.ncd 

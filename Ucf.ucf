@@ -1,0 +1,16 @@
+NET "X[0]"LOC=p127;
+NET "X[1]"LOC=p131;
+NET "X[2]"LOC=p132;
+NET "X[3]"LOC=p133;
+
+
+NET "Y[0]"LOC=p137;
+NET "Y[1]"LOC=p138;
+NET "Y[2]"LOC=p139;
+NET "Y[3]"LOC=p140;
+NET "Y[4]"LOC=p141;
+NET "Y[5]"LOC=p142;
+NET "Y[6]"LOC=p143;
+
+NET "clk"LOC=p84;
+NET "rst"LOC=p33;
